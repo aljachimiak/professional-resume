@@ -12,7 +12,9 @@ main () {
   install_bash_profile
   install_node
   install_npm
-  restart_services
+  restart_servicesi
+  install_json_resume_cli
+  symlink_node_to_nodejs
 }
 
 print_section () {
@@ -20,6 +22,17 @@ print_section () {
   echo "************************************************************"
   echo "$msg"
   echo "************************************************************"
+}
+
+symlink_node_to_nodejs () {
+  print_section "Symlinking node command to nodejs package"
+  sudo ln -s "$(which nodejs)" /usr/bin/node \
+  || fail "Could not symlink to node" 
+}
+
+install_json_resume_cli () {
+  print_section "Installing json Resume CLI"
+  sudo npm install -g resume-cli || fail "Could not install json Resume CLI"
 }
 
 install_node () {
@@ -64,7 +77,6 @@ install_bash_profile () {
 
 restart_services () {
   print_section "Restart services"
-  sudo service apache2 restart
 }
 
 main "$@"
