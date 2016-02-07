@@ -4,41 +4,45 @@
     "label": "Programmer",
     "picture": "",
     "email": "aljachimiak@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
+    "phone": "(845) 532-2040",
+    "website": "http://al.jachimiak.com",
     "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "32 Kobelt Drive",
+      "postalCode": "NY 12589",
+      "city": "Wallkill",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "aljachimiak",
+        "url": "https://twitter.com/aljachimiak"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
+        "network": "GitHub",
+        "username": "aljachimiak",
         "url": "https://soundcloud.com/dandymusicnl"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Al Jachimiak",
+        "url": "https://www.linkedin.com/in/al-jachimiak-29b50b4b"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Castle Software",
+      "position": "Senior Developer",
+      "website": "https://castlelearning.com",
+      "startDate": "2014-03-01",
+      "summary": "Castle Learning is a K-12 educational technology product that allows teachers to give students digital assignments and gives students a fully responsive platform to complete thier assignments.  We also provide analysis of student response data to help drive instruction, provide high quality content to teachers, and provide students with many different methods to review material and improve their skills.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Re-architeched the student interface to allow for full functionality on dektops, tablets, and phones",
+        "Implemented new reports for with client side charts and graphs for data interpretation.",
+        "Helped design new data structures and modeling to increase query speed, lower network bandwidth of query results, and increase server-side data analysis algorithms."
       ]
     }
   ],

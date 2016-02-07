@@ -10,11 +10,13 @@ main () {
   install_tools
   clean_up_packages
   install_bash_profile
-  install_node
-  install_npm
-  restart_servicesi
-  install_json_resume_cli
-  symlink_node_to_nodejs
+  #install_node
+  #install_npm
+  #install_json_resume_cli
+  #symlink_node_to_nodejs
+  install_apache2
+  configure_apache2
+  restart_services
 }
 
 print_section () {
@@ -77,6 +79,21 @@ install_bash_profile () {
 
 restart_services () {
   print_section "Restart services"
+}
+
+install_apache2() {
+  print_section "Installing Apache2"
+  sudo apt-get install -y apache2  || fail "Unable to install Apache2"
+}
+
+configure_apache2 () {
+  print_section "Configure Apache2"
+  sudo cp /vagrant/configs/002-resume.conf /etc/apache2/sites-enabled/  \
+    || fail "Unable to copy Apache config file."
+  
+  sudo a2dissite 000-default || fail "Unable to disable the default site." 
+
+  sudo ln -s /vagrant /var/www/html/resume || fail "Unable to link /vagrant to /var/www/html/resume" 
 }
 
 main "$@"
