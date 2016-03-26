@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Al Jachimiak",
-    "label": "Programmer",
+    "label": "Senior Developer",
     "picture": "",
     "email": "aljachimiak@gmail.com",
     "phone": "(845) 532-2040",
     "website": "http://al.jachimiak.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "<p>After 15 years teaching in public schools, I made a huge leap into the software industry.  Every day of my teaching career was an exercise in User Experience. What could I do to ease a student through the constant bombardment of new material? How could I make a student comfortable enough with unfamilliar information so they are willing to engage in the learning process?</p><p> I've taken this experience and integrated with my passion for technology.  Now, I develop front-end user interfaces that are easy to use and create back-end API's that are developer-friendly, maitainable, and scalable. </p><style> .skill-info{ margin-left: 1em; }</style>",
     "location": {
       "address": "32 Kobelt Drive",
       "postalCode": "NY 12589",
@@ -23,7 +23,7 @@
       {
         "network": "GitHub",
         "username": "aljachimiak",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "url": "https://github.com/aljachimiak"
       },
       {
         "network": "Linkedin",
@@ -37,57 +37,98 @@
       "company": "Castle Software",
       "position": "Senior Developer",
       "website": "https://castlelearning.com",
-      "startDate": "2014-03-01",
+      "startDate": "2013-09-01",
       "summary": "Castle Learning is a K-12 educational technology product that allows teachers to give students digital assignments and gives students a fully responsive platform to complete thier assignments.  We also provide analysis of student response data to help drive instruction, provide high quality content to teachers, and provide students with many different methods to review material and improve their skills.",
       "highlights": [
         "Re-architeched the student interface to allow for full functionality on dektops, tablets, and phones",
         "Implemented new reports for with client side charts and graphs for data interpretation.",
         "Helped design new data structures and modeling to increase query speed, lower network bandwidth of query results, and increase server-side data analysis algorithms."
       ]
+    },
+    {
+      "company": "Catalyst Custom Technology Consulting",
+      "position": "Frelance Developer",
+      "website": "http://catalystctc.com",
+      "startDate": "2012-01-01",
+      "summary": "Catalyst is an agency that provides full stack technology consulting.  Catalyst can produce small static websites, large and scalable content management systems, and deploy on-site and virtual network infrastructure for small businesses.",
+      "highlights": [
+        "<a href='http://ucmea.org' target='_blank'>UCMEA</a>: Created anew responsive Wordpress site for a music educators association.",
+        "<a href='http://www.ameripriseadvisors.com/team/mazzetti-buscetto-and-associates/myteam' target='_blank'>Ameriprise Financial</a>:  When moving to a new office, managed network migration, testing, and hardware integration.",
+        "<a href='bigbluebigband.com' target='_blank'>Big Blue Big Band</a>: Designed and deployed a sleek and responsive promotional site for a New York swing band."
+      ]
+    },
+    {
+      "company": "Wallkill Central School District",
+      "position": "Music Teacher",
+      "website": "http://www.wallkillcsd.k12.ny.us",
+      "startDate": "2003-09-01",
+      "endDate": "2014-02-28",
+      "highlights": [
+        "Conducted seven different bands, percussion ensembles, and jazz ensembles spanning grades 7-12.",
+        "Designed an Advanced Placement music theory curriculum.",
+        "Deployed computer based testing (<a href='http://www.taotesting.com/' target='_blank'>Tao Testing</a>)"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "Hour of Code",
+      "position": "Technical Specialist",
+      "website": "https://hourofcode.com",
+      "startDate": "2015-11-01",
+      "summary": "The Hour of Code is a global movement reaching tens of millions of students in 180+ countries.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Monticello Central School District (MS)",
+        "Poughkeepsie City School District (ES)",
+        "Wallkill Central School District (MS)",
+        "Rondout Valley Central School District (HS)",
+        "Pine Bush Central SChool District (ES)"
+      ]
+    },
+    {
+      "organization": "Mid Hudson Valley Linux Users Group",
+      "position": "Publicity Director",
+      "website": "http://mhvlug.org",
+      "startDate": "2013-11-01",
+      "endDate": "2016-01-01",
+      "summary": "MHVLUG, founded in 2003, is an informal organization, that is first and foremost about making a constructive, sharing, and welcoming community. MHVLUG promotes the use and education of open technologies. ",
+      "highlights": [
+        "<a href='https://mhvlug.org/meetings/2016/front-end-web-cli-tools' target='_blank'>Front-End Web CLI Tools (5-2016)</a>",
+        "<a href='https://github.com/mhvlug/mhvlug-monthly-presentation/commit/4766d2fc07f866ebb8ed035e8bf218717e8c18de' target='_blank'>Used Vagrant to make the monthly presentation dev environent available across many platforms</a>",
+        "<a href='https://mhvlug.org/meetings/2015/imperfect-inadequate-overcoming-imposter-syndrome' target='_blank'>Overcoming Imposter Syndrome (11-2015)</a>",
+        "<a href='https://mhvlug.org/meetings/2012/home-networking-made-simple-with-amahi-home-server' target='_blank'>Home Networking with Amahi (2-2012)</a>"
       ]
     }
   ],
   "education": [
+
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "Self Study",
+      "area": "Certifications",
+      "studyType": "Technical",
+      "startDate": "2012-06-01",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "COMPTIA - A+ (2012)",
+        "COMPTIA - Network+ (2013)",
+        "MongoDB - M101JS: MongoDB for Node.js"
       ]
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
+      "institution": "SUNY Fredonia",
+      "area": "Music Education",
+      "studyType": "Bachelor",
+      "startDate": "1995-09-01",
+      "endDate": "1999-05-31"
+    },
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "institution": "SUNY Fredonia",
+      "area": "Music Education",
+      "studyType": "Masters",
+      "startDate": "2000-06-01",
+      "endDate": "2003-08-31",
+      "courses": [
+        "NYS Teacher Certification - Music k-12 (permanent)"
+      ]
     }
   ],
   "skills": [
@@ -97,7 +138,9 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "Sass",
+        "Less"
       ]
     },
     {

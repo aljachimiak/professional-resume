@@ -10,10 +10,10 @@ main () {
   install_tools
   clean_up_packages
   install_bash_profile
-  #install_node
-  #install_npm
-  #install_json_resume_cli
-  #symlink_node_to_nodejs
+  install_node
+  install_npm
+  install_json_resume_cli
+  symlink_node_to_nodejs
   install_apache2
   configure_apache2
   restart_services
@@ -79,6 +79,7 @@ install_bash_profile () {
 
 restart_services () {
   print_section "Restart services"
+  sudo service apache2 reload || fail "Could not reload apache2."
 }
 
 install_apache2() {
