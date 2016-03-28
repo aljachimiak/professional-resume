@@ -52,7 +52,7 @@
       "startDate": "2012-01-01",
       "summary": "Catalyst is an agency that provides full stack technology consulting.  Catalyst can produce small static websites, large and scalable content management systems, and deploy on-site and virtual network infrastructure for small businesses.",
       "highlights": [
-        "<a href='bigbluebigband.com' target='_blank'>Big Blue Big Band</a>: Designed and deployed a sleek and responsive promotional site for a New York swing band",
+        "<a href='http://bigbluebigband.com' target='_blank'>Big Blue Big Band</a>: Designed and deployed a sleek and responsive promotional site for a New York swing band",
         "<a href='http://ucmea.org' target='_blank'>UCMEA</a>: Created anew responsive Wordpress site for a music educators association",
         "<a href='http://www.ameripriseadvisors.com/team/mazzetti-buscetto-and-associates/myteam' target='_blank'>Ameriprise Financial</a>:  When moving to a new office, managed network migration, testing, and hardware integration."
       ]
@@ -102,17 +102,6 @@
   ],
   "education": [
     {
-      "institution": "Self Study",
-      "area": "Certifications",
-      "studyType": "Technical",
-      "startDate": "2012-06-01",
-      "courses": [
-        "COMPTIA - A+ (2012)",
-        "COMPTIA - Network+ (2013)",
-        "MongoDB - M101JS: MongoDB for Node.js"
-      ]
-    },
-    {
       "institution": "SUNY Fredonia",
       "area": "Music Education",
       "studyType": "Bachelor",
@@ -129,7 +118,7 @@
       "startDate": "2000-06-01",
       "endDate": "2003-08-31",
       "courses": [
-        "Bachelor of Education",
+        "Master of Education",
         "NYS Teacher Certification - Music k-12 (permanent)"
       ]
     }
