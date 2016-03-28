@@ -1,0 +1,23 @@
+{
+  "name": "resume_json",
+  "version": "0.0.0",
+  "description": "gulp files for building resume",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.9.1",
+    "gulp-replace": "~0.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aljachimiak/resume.json.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/aljachimiak/resume.json/issues"
+  }
+}
