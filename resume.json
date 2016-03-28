@@ -6,7 +6,7 @@
     "email": "aljachimiak@gmail.com",
     "phone": "(845) 532-2040",
     "website": "http://al.jachimiak.com",
-    "summary": "<p>After 15 years teaching in public schools, I made a huge leap into the software industry.  Every day of my teaching career was an exercise in User Experience. What could I do to ease a student through the constant bombardment of new material? How could I make a student comfortable enough with unfamilliar information so they are willing to engage in the learning process?</p><p> I've taken this experience and integrated with my passion for technology.  Now, I develop front-end user interfaces that are easy to use and create back-end API's that are developer-friendly, maitainable, and scalable. </p><style> .skill-info{ margin-left: 1em; }</style>",
+    "summary": "<p>After 15 years teaching in public schools, I made a huge leap into the software industry.  Every day of my teaching career was an exercise in User Experience. What could I do to ease a student through the constant bombardment of new material? How could I make a student comfortable enough with unfamilliar information so they are willing to engage in the learning process?</p><p> I've taken this experience and integrated with my passion for technology.  Now, I develop front-end user interfaces that are easy to use and create back-end API's that are developer-friendly, maitainable, and scalable.",
     "location": {
       "address": "32 Kobelt Drive",
       "postalCode": "NY 12589",
@@ -41,8 +41,8 @@
       "summary": "Castle Learning is a K-12 educational technology product that allows teachers to give students digital assignments and gives students a fully responsive platform to complete thier assignments.  We also provide analysis of student response data to help drive instruction, provide high quality content to teachers, and provide students with many different methods to review material and improve their skills.",
       "highlights": [
         "Re-architeched the student interface to allow for full functionality on dektops, tablets, and phones",
-        "Implemented new reports for with client side charts and graphs for data interpretation.",
-        "Helped design new data structures and modeling to increase query speed, lower network bandwidth of query results, and increase server-side data analysis algorithms."
+        "Implemented new reports for with client side charts and graphs for data interpretation",
+        "Helped design new data structures and modeling to increase query speed, lower network bandwidth of query results, and increase server-side data analysis algorithms"
       ]
     },
     {
@@ -52,9 +52,9 @@
       "startDate": "2012-01-01",
       "summary": "Catalyst is an agency that provides full stack technology consulting.  Catalyst can produce small static websites, large and scalable content management systems, and deploy on-site and virtual network infrastructure for small businesses.",
       "highlights": [
-        "<a href='http://ucmea.org' target='_blank'>UCMEA</a>: Created anew responsive Wordpress site for a music educators association.",
-        "<a href='http://www.ameripriseadvisors.com/team/mazzetti-buscetto-and-associates/myteam' target='_blank'>Ameriprise Financial</a>:  When moving to a new office, managed network migration, testing, and hardware integration.",
-        "<a href='bigbluebigband.com' target='_blank'>Big Blue Big Band</a>: Designed and deployed a sleek and responsive promotional site for a New York swing band."
+        "<a href='bigbluebigband.com' target='_blank'>Big Blue Big Band</a>: Designed and deployed a sleek and responsive promotional site for a New York swing band",
+        "<a href='http://ucmea.org' target='_blank'>UCMEA</a>: Created anew responsive Wordpress site for a music educators association",
+        "<a href='http://www.ameripriseadvisors.com/team/mazzetti-buscetto-and-associates/myteam' target='_blank'>Ameriprise Financial</a>:  When moving to a new office, managed network migration, testing, and hardware integration."
       ]
     },
     {
@@ -101,7 +101,6 @@
     }
   ],
   "education": [
-
     {
       "institution": "Self Study",
       "area": "Certifications",
@@ -118,7 +117,10 @@
       "area": "Music Education",
       "studyType": "Bachelor",
       "startDate": "1995-09-01",
-      "endDate": "1999-05-31"
+      "endDate": "1999-05-31",
+      "courses": [
+        "Bachelor of Education"
+      ]
     },
     {
       "institution": "SUNY Fredonia",
@@ -127,13 +129,14 @@
       "startDate": "2000-06-01",
       "endDate": "2003-08-31",
       "courses": [
+        "Bachelor of Education",
         "NYS Teacher Certification - Music k-12 (permanent)"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Front End",
       "level": "Master",
       "keywords": [
         "HTML",
@@ -144,34 +147,87 @@
       ]
     },
     {
-      "name": "Compression",
+      "name": "Backend",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "C#",
+        "Ruby",
+        "Php",
+        "NodeJS"
       ]
-    }
-  ],
-  "languages": [
+    },
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "name": "Devops",
+      "level": "Master",
+      "keywords": [
+        "Virtualization",
+        "Vagrant",
+        "Digital Ocean",
+        "AWS",
+        "Rackspace"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "keywords": [
+        "MVC (MS)",
+        "Rails",
+        "Knockout",
+        "React",
+        "Bootstrap",
+        "Foundation"
+      ]
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Tech",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Public Speaking",
+        "Interactive SVG",
+        "Productivity",
+        "Open Source",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Rubics Cube",
+      "keywords": [
+        "Enthusiatic Amateur Speed Cuber",
+        "Solve < 1.5 min"
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "keywords": [
+        "Hiking",
+        "Camping",
+        "Biking",
+        "Gardening"
+      ]
+    },
+    {
+      "name": "Cooking",
+      "keywords": [
+        "Pizza",
+        "Grilling",
+        "Baking"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Trumpet",
+        "Big Blue Big Band",
+        "Church Choir"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Carlos Puchol, Amahi.org",
+      "reference": "I am proud to recommend Al with highest regards! There are a few things that are rare to find in combination in a technical person. Al has both excellent design skills and great front-end web-development skills. If that is not rare enough unto itself, Al adds one more that truly sets him apart: he's easy to work with. <a title='See full reference at Linkedin.' href='https://www.linkedin.com/in/al-jachimiak-29b50b4b#recommendations' target='_blank'>He gets the requirements quickly and gets on his way...</a>"
     }
   ]
 }
