@@ -14,6 +14,7 @@ replaceStr += ' .background-card hr:first-of-type{display:none;}';
 replaceStr += ' #skills .content li, #interests .content li, #education .content li { width: 48%; float: left; display: inline-block;}';
 replaceStr += ' #references { page-break-before: always; }';
 replaceStr += ' } </style>';
+replaceStr += '<link rel="apple-touch-icon" href="apple-touch-icon.png">'
 replaceStr += '<link rel="icon" href="apple-touch-icon.png"></head>';
 
 gulp.task('insert-to-head', function(){

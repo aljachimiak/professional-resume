@@ -6,7 +6,7 @@
     "email": "aljachimiak@gmail.com",
     "phone": "(845) 532-2040",
     "website": "http://al.jachimiak.com",
-    "summary": "<p>After 15 years teaching in public schools, I made a huge leap into the software industry.  Every day of my teaching career was an exercise in User Experience. What could I do to ease a student through the constant bombardment of new material? How could I make a student comfortable enough with unfamilliar information so they are willing to engage in the learning process?</p><p> I've taken this experience and integrated with my passion for technology.  Now, I develop front-end user interfaces that are easy to use and create back-end API's that are developer-friendly, maitainable, and scalable.",
+    "summary": "<p>After 15 years teaching in public schools, I made a huge leap into the software industry.  Every day of my teaching career was an exercise in User Experience. What could I do to ease a student through the constant bombardment of new material? How could I make a student comfortable enough with unfamiliar information so they are willing to engage in the learning process?</p><p> I've taken this experience and integrated with my passion for technology.  Now, I develop front-end user interfaces that are easy to use and create back-end API's that are developer-friendly, maintainable, and scalable.",
     "location": {
       "address": "32 Kobelt Drive",
       "postalCode": "NY 12589",
@@ -38,22 +38,22 @@
       "position": "Senior Developer",
       "website": "https://castlelearning.com",
       "startDate": "2013-09-01",
-      "summary": "Castle Learning is a K-12 educational technology product that allows teachers to give students digital assignments and gives students a fully responsive platform to complete thier assignments.  We also provide analysis of student response data to help drive instruction, provide high quality content to teachers, and provide students with many different methods to review material and improve their skills.",
+      "summary": "Castle Learning is a K-12 educational technology product that allows teachers to give students digital assignments and gives students a fully responsive platform to complete their assignments.  We also provide analysis of student response data to help drive instruction, provide high quality content to teachers, and provide students with many different methods to review material and improve their skills.",
       "highlights": [
-        "Re-architeched the student interface to allow for full functionality on dektops, tablets, and phones",
+        "Re-architected the student interface to allow for full functionality on desktops, tablets, and phones",
         "Implemented new reports for with client side charts and graphs for data interpretation",
         "Helped design new data structures and modeling to increase query speed, lower network bandwidth of query results, and increase server-side data analysis algorithms"
       ]
     },
     {
       "company": "Catalyst Custom Technology Consulting",
-      "position": "Frelance Developer",
+      "position": "Freelance Developer",
       "website": "http://catalystctc.com",
       "startDate": "2012-01-01",
       "summary": "Catalyst is an agency that provides full stack technology consulting.  Catalyst can produce small static websites, large and scalable content management systems, and deploy on-site and virtual network infrastructure for small businesses.",
       "highlights": [
         "<a href='http://bigbluebigband.com' target='_blank'>Big Blue Big Band</a>: Designed and deployed a sleek and responsive promotional site for a New York swing band",
-        "<a href='http://ucmea.org' target='_blank'>UCMEA</a>: Created anew responsive Wordpress site for a music educators association",
+        "<a href='http://ucmea.org' target='_blank'>UCMEA</a>: Created a new responsive Wordpress site for a music educators association",
         "<a href='http://www.ameripriseadvisors.com/team/mazzetti-buscetto-and-associates/myteam' target='_blank'>Ameriprise Financial</a>:  When moving to a new office, managed network migration, testing, and hardware integration."
       ]
     },
@@ -76,13 +76,13 @@
       "position": "Technical Specialist",
       "website": "https://hourofcode.com",
       "startDate": "2015-11-01",
-      "summary": "The Hour of Code is a global movement reaching tens of millions of students in 180+ countries.",
+      "summary": "Hour of Code is a global movement reaching tens of millions of students in 180+ countries.",
       "highlights": [
         "Monticello Central School District (MS)",
         "Poughkeepsie City School District (ES)",
         "Wallkill Central School District (MS)",
         "Rondout Valley Central School District (HS)",
-        "Pine Bush Central SChool District (ES)"
+        "Pine Bush Central School District (ES)"
       ]
     },
     {
@@ -94,7 +94,7 @@
       "summary": "MHVLUG, founded in 2003, is an informal organization, that is first and foremost about making a constructive, sharing, and welcoming community. MHVLUG promotes the use and education of open technologies. ",
       "highlights": [
         "<a href='https://mhvlug.org/meetings/2016/front-end-web-cli-tools' target='_blank'>Front-End Web CLI Tools (5-2016)</a>",
-        "<a href='https://github.com/mhvlug/mhvlug-monthly-presentation/commit/4766d2fc07f866ebb8ed035e8bf218717e8c18de' target='_blank'>Used Vagrant to make the monthly presentation dev environent available across many platforms</a>",
+        "<a href='https://github.com/mhvlug/mhvlug-monthly-presentation/commit/4766d2fc07f866ebb8ed035e8bf218717e8c18de' target='_blank'>Used Vagrant to make the monthly presentation dev environment available across many platforms</a>",
         "<a href='https://mhvlug.org/meetings/2015/imperfect-inadequate-overcoming-imposter-syndrome' target='_blank'>Overcoming Imposter Syndrome (11-2015)</a>",
         "<a href='https://mhvlug.org/meetings/2012/home-networking-made-simple-with-amahi-home-server' target='_blank'>Home Networking with Amahi (2-2012)</a>"
       ]
@@ -162,8 +162,9 @@
       "keywords": [
         "MVC (MS)",
         "Rails",
-        "Knockout",
         "React",
+        "Ember",
+        "Knockout",
         "Bootstrap",
         "Foundation"
       ]
@@ -183,7 +184,7 @@
     {
       "name": "Rubics Cube",
       "keywords": [
-        "Enthusiatic Amateur Speed Cuber",
+        "Enthusiastic Amateur Speed Cuber",
         "Solve < 1.5 min"
       ]
     },
