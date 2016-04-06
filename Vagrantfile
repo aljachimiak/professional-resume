@@ -11,6 +11,12 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # use this config script on initial 'up' or --provision
   config.vm.provision "shell", path: "./scripts/setup.sh"
   
+  # add a bit more muscle
+  config.vm.provider "virtualbox" do |v|
+     v.customize ["modifyvm", :id, "--memory", "2048"]
+     v.customize ["modifyvm", :id, "--cpus", "2"]
+  end
+
   # accessing "localhost:8080" will access port 80 on the guest machine.
   config.vm.network "forwarded_port", guest: 80, host: 8080
 

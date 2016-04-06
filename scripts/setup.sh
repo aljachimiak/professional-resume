@@ -10,10 +10,12 @@ main () {
   install_tools
   clean_up_packages
   install_bash_profile
+  scary_node_package_redirect
+  update_package_list
   install_node
-  install_npm
+  # install_npm
   install_json_resume_cli
-  symlink_node_to_nodejs
+  # symlink_node_to_nodejs
   install_apache2
   configure_apache2
   restart_services
@@ -26,15 +28,20 @@ print_section () {
   echo "************************************************************"
 }
 
-symlink_node_to_nodejs () {
-  print_section "Symlinking node command to nodejs package"
-  sudo ln -s "$(which nodejs)" /usr/bin/node \
-  || fail "Could not symlink to node" 
-}
+# symlink_node_to_nodejs () {
+#   print_section "Symlinking node command to nodejs package"
+#   sudo ln -s "$(which nodejs)" /usr/bin/node \
+#   || fail "Could not symlink to node" 
+# }
 
 install_json_resume_cli () {
   print_section "Installing json Resume CLI"
   sudo npm install -g resume-cli || fail "Could not install json Resume CLI"
+}
+
+scary_node_package_redirect () {
+  print_section "Running scary nodejs curl | sudo bash"
+  curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash - || fail "Unable to run Nodejs curl script"
 }
 
 install_node () {
@@ -42,9 +49,14 @@ install_node () {
   sudo apt-get install nodejs -y || fail "Unable to install Node.js."
 }
 
-install_npm () {
-  print_section "Installing node package manager [npm]."
-  sudo apt-get install npm -y || fail "Unable to install npm."
+# install_npm () {
+#   print_section "Installing node package manager [npm]."
+#   sudo apt-get install npm -y || fail "Unable to install npm."
+# }
+
+update_npm () {
+  print_section "Using Npm to update Npm"
+  sudo npm install npm -g
 }
 
 install_tools () {
