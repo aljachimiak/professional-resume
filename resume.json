@@ -6,7 +6,7 @@
     "email": "aljachimiak@gmail.com",
     "phone": "(845) 532-2040",
     "website": "http://al.jachimiak.com",
-    "summary": "<p>After 15 years teaching in public schools, I made a huge leap into the software industry.  Every day of my teaching career was an exercise in User Experience. What could I do to ease a student through the constant bombardment of new material? How could I make a student comfortable enough with unfamiliar information so they are willing to engage in the learning process?</p><p> I've taken this experience and integrated with my passion for technology.  Now, I develop front-end user interfaces that are easy to use and create back-end API's that are developer-friendly, maintainable, and scalable.",
+    "summary": "<p>After 15 years teaching in public schools, I made a huge leap into the software industry.  Every day of my teaching career was an exercise in User Experience. What could I do to ease a student through the constant bombardment of new material? How could I make a student comfortable enough with unfamiliar information so they are willing to engage in the learning process?</p><p> I've taken this experience and integrated with my passion for technology.  Now, I develop front-end user interfaces that are easy to use and create back-end API's that are developer-friendly, maintainable, and scalable.</p>",
     "location": {
       "address": "32 Kobelt Drive",
       "postalCode": "NY 12589",
@@ -42,7 +42,7 @@
       "highlights": [
         "Re-architected the student interface to allow for full functionality on desktops, tablets, and phones",
         "Implemented new reports for with client side charts and graphs for data interpretation",
-        "Helped design new data structures and modeling to increase query speed, lower network bandwidth of query results, and increase server-side data analysis algorithms"
+        "Helped design new data structures and modeling to increase query speed, lower network bandwidth of query results, and increase server-side efficiency data analysis algorithms"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript",
+        "JavaScript",
         "Sass",
         "Less"
       ]
@@ -157,11 +157,13 @@
       ]
     },
     {
-      "name": "Frameworks",
+      "name": "Frameworks ",
       "level": "Master",
       "keywords": [
         "MVC (MS)",
         "Rails",
+        "Knockout",
+        "Ember",
         "React",
         "Ember",
         "Knockout",
@@ -225,7 +227,7 @@
     },
     {
       "name": "Thomas Hein, Technical Services Coordinator - Wallkill CSD",
-      "reference" : "...I assigned Al multiple projects, wireless deployment, IPad Cart deployment and Thin client rollout. Al completed each project, demonstrating his network and server administration skills. <a title='See full reference at Linkedin.' href='https://www.linkedin.com/in/al-jachimiak-29b50b4b#recommendations' target='_blank'>Al was a great asset...</a>"
+      "reference" : "...I assigned Al multiple projects, wireless deployment, iPad Cart deployment and Thin client rollout. Al completed each project, demonstrating his network and server administration skills. <a title='See full reference at Linkedin.' href='https://www.linkedin.com/in/al-jachimiak-29b50b4b#recommendations' target='_blank'>Al was a great asset...</a>"
     }
   ]
 }

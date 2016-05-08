@@ -49,12 +49,19 @@ gulp.task('insert-to-head', function(){
     .pipe(gulp.dest('./'));
 });
 
+gulp.task('make-html', function(){
+  gulp.src(['./resume.html', './index.html'])
+    .pipe(replace('&lt;', '<'))
+    .pipe(replace('&gt;', '>'))
+    .pipe(gulp.dest('./'));
+})
+
 gulp.task('build-resume', shell.task([
   'resume export -t elegant -f html index',
-  'gulp insert-to-head'
+  'gulp insert-to-head', 'gulp make-html'
 ]))
 
 gulp.task('watch', function(){
   gulp.watch('./*.json', ['build-resume']); 
-  gulp.watch('./*.js', ['insert-to-head']);
+  gulp.watch('./*.js', ['insert-to-head', 'make-html']);
 })
