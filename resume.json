@@ -43,7 +43,7 @@
         "Designing features for the Odd Networks dashboard and developing them using React and Redux.",
         "Developing new features on Nodejs and Go backend systems for api-management, content delivery, and event collection for metrics and analytics.",
         "Building and deploying client applications on iOS, Android, tvOS, android-tv, Amazon Fire, and Roku.",
-        "Working with clients to build custom applications and training content managers for usage of content and platform dashboards."
+        "Working with clients to build custom applications and training content managers to use content and platform dashboards."
       ]
     },
     {
@@ -54,9 +54,9 @@
       "endDate": "2017-05-01",
       "summary": "Castle Learning is a K-12 educational technology product that allows teachers to give students digital assignments and gives students a fully responsive platform to complete their assignments.  We also provide analysis of student response data to help drive instruction, provide high quality content to teachers, and provide students with many different methods to review material and improve their skills.",
       "highlights": [
-        "Re-architected the student interface to allow for full functionality on desktops, tablets, and phones",
-        "Implemented new reports for with client side charts and graphs for data interpretation",
-        "Helped design new data structures and modeling to increase query speed, lower network bandwidth of query results, and increase server-side efficiency data analysis algorithms"
+        "Re-architected the student interface to allow for full functionality on desktops, tablets, and phones.",
+        "Implemented new reports for with client side charts and graphs for data interpretation.",
+        "Helped design new data structures and modeling to increase query speed, lower network bandwidth of query results, and increase server-side efficiency data analysis algorithms."
       ]
     },
     {
@@ -164,9 +164,8 @@
       "name": "Devops",
       "level": "Master",
       "keywords": [
-        "Virtualization",
-        "Vagrant",
-        "Digital Ocean",
+        "Docker",
+        "Heroku",
         "AWS",
         "Rackspace"
       ]
@@ -225,7 +224,7 @@
     {
       "name": "Music",
       "keywords": [
-        "Trumpet",
+        "Trumpet ",
         "Big Blue Big Band",
         "Church Choir"
       ]
@@ -234,11 +233,11 @@
   "references": [
     {
       "name": "Kris Walker, CTO - Oddnetworks.com",
-      "reference" : "Al is a multi faceted developer comfortable in a range of technologies used in <a title='See full reference at Linkedin.' href='https://www.linkedin.com/in/al-jachimiak-29b50b4b#recommendations' target='_blank'>modern web development...</a>"
+      "reference" :"Al is a multi faceted developer comfortable in a range of technologies used in <a title='See full reference at Linkedin.' href='https://www.linkedin.com/in/al-jachimiak-29b50b4b#recommendations' target='_blank'>modern web development...</a>"
     },
     {
       "name": "Carlos Puchol, CEO - Amahi.org",
-      "reference": "I am proud to recommend Al with highest regards! There are a few things that are rare to find in combination in a technical person. Al has both excellent design skills and great front-end web-development skills. If that is not rare enough unto itself, Al adds one more that truly sets him apart: he's easy to work with. <a title='See full reference at Linkedin.' href='https://www.linkedin.com/in/al-jachimiak-29b50b4b#recommendations' target='_blank'>He gets the requirements quickly and gets on his way...</a>"
+      "reference": "I am proud to recommend Al with highest regards! There are a few things that are rare to find in combination in a technical person. Al has both excellent design skills and great front-end web-development skills. If that is not rare enough unto itself, Al adds one more that truly sets him apart: he's easy to work with. <a title='See full reference at Linkedin.' href='https://www.linkedin.com/in/al-jachimiak-29b50b4b#recommendations' target='_blank'>He gets the requirements quickly and gets on his way.....</a>"
     },
     {
       "name": "Thomas Hein, Technical Services Coordinator - Wallkill CSD",
