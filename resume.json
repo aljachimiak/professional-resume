@@ -8,7 +8,7 @@
     "website": "http://al.jachimiak.com",
     "summary": "<p>After 15 years teaching in public schools, I made a huge leap into the software industry.  Every day of my teaching career was an exercise in User Experience. What could I do to ease a student through the constant bombardment of new material? How could I make a student comfortable enough with unfamiliar information so they are willing to engage in the learning process?</p><p> I've taken this experience and integrated with my passion for technology.  Now, I develop front-end user interfaces that are easy to use and create back-end API's that are developer-friendly, maintainable, and scalable.</p>",
     "location": {
-      "address": "32 Kobelt Drive",
+      "address": "243 Valley View Drive",
       "postalCode": "NY 12589",
       "city": "Wallkill",
       "countryCode": "US",
@@ -35,13 +35,15 @@
   "work": [
     {
       "company": "Odd Networks",
-      "position": "Senior Support Engineer",
+      "position": "Lead Support Engineer",
       "website": "https://oddnetworks.com/",
       "startDate": "2017-05-01",
-      "summary": "Odd Networks is a leader in the OTT technology, bringing to bring the latest in Video Streaming technology to mobile and television connected devices like Roku, AppleTV, Amazon Fire.  We use innovative backend technologies to deliver video content to millions of devices, which can be all be easily managed through the Odd Networks Dashboard.",
+      "summary": "Odd Networks is a leader in the OTT technology, bringing the latest in Video Streaming technology to mobile and television connected devices like Roku, AppleTV, Amazon Fire.  We use innovative backend technologies to deliver video content to millions of devices, which can be all be easily managed through the Odd Networks Dashboard.",
       "highlights": [
         "Designing features for the Odd Networks dashboard and developing them using React and Redux.",
-        ""
+        "Developing new features on Nodejs and Go backend systems for api-management, content delivery, and event collection for metrics and analytics.",
+        "Building and deploying client applications on iOS, Android, tvOS, android-tv, Amazon Fire, and Roku.",
+        "Working with clients to build custom applications and training content managers for usage of content and platform dashboards."
       ]
     },
     {
@@ -151,10 +153,11 @@
       "name": "Backend",
       "level": "Master",
       "keywords": [
+        "NodeJS",
+        "Go",
         "C#",
         "Ruby",
-        "Php",
-        "NodeJS"
+        "Php"
       ]
     },
     {
