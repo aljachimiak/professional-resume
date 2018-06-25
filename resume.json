@@ -34,10 +34,22 @@
   },
   "work": [
     {
+      "company": "Odd Networks",
+      "position": "Senior Support Engineer",
+      "website": "https://oddnetworks.com/",
+      "startDate": "2017-05-01",
+      "summary": "Odd Networks is a leader in the OTT technology, bringing to bring the latest in Video Streaming technology to mobile and television connected devices like Roku, AppleTV, Amazon Fire.  We use innovative backend technologies to deliver video content to millions of devices, which can be all be easily managed through the Odd Networks Dashboard.",
+      "highlights": [
+        "Designing features for the Odd Networks dashboard and developing them using React and Redux.",
+        ""
+      ]
+    },
+    {
       "company": "Castle Software",
       "position": "Senior Developer",
       "website": "https://castlelearning.com",
       "startDate": "2013-09-01",
+      "endDate": "2017-05-01",
       "summary": "Castle Learning is a K-12 educational technology product that allows teachers to give students digital assignments and gives students a fully responsive platform to complete their assignments.  We also provide analysis of student response data to help drive instruction, provide high quality content to teachers, and provide students with many different methods to review material and improve their skills.",
       "highlights": [
         "Re-architected the student interface to allow for full functionality on desktops, tablets, and phones",
