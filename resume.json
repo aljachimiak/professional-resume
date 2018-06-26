@@ -6,7 +6,7 @@
     "email": "aljachimiak@gmail.com",
     "phone": "(845) 532-2040",
     "website": "http://al.jachimiak.com",
-    "summary": "<p>I’m a self-taught developer that is about to start his 6th year as a professional software developer.  I develop front-end user interfaces that are easy to use and create back-end API's that are developer-friendly, maintainable, and scalable.</p><p>As a developer, I’ve got lots of experience using React and Vue to make great interfaces on the front-end.  On the backend, I have several years of C# experience as well as current responsibilities that include multiple nodejs services as well as services written in Go.</p><p>I’m also good communicator.  In my previous career as a public school teacher, I had real experience helping students to understand complex topics.  I bring that experience to the realm of technology by having the ability to understand the problems of folks on both the business side and the technology side of an issue.  Then I help translate the needs of all the stakeholders to create a plan for success that is sustainable. </p>",
+    "summary": "<p>I’m a self-taught engineer that is about to start his 6th year as a professional in the tech industry.  I develop front-end user interfaces that are easy to use and create back-end API's that are engineer-friendly, maintainable, and scalable.</p><p>As an engineer, I’ve got lots of experience using React and Vue to make great user interfaces. On the backend, I've written services in nodejs and go, as well as several years of experience in C#.</p><p>I’m also good communicator. In my previous career as a public school teacher, I helped students understand complex topics by first understanding the topics and then communicating the material in an impactful way. I bring that experience to technology companies by understanding both the business and technology problems, and translating the needs of stakeholders to create a plan for success that is sustainable across teams.</p>",
     "location": {
       "address": "243 Valley View Drive",
       "postalCode": "NY 12589",
@@ -38,10 +38,10 @@
       "position": "Lead Support Engineer",
       "website": "https://oddnetworks.com/",
       "startDate": "2017-05-01",
-      "summary": "Odd Networks is a leader in the OTT technology, bringing the latest in Video Streaming technology to mobile and television connected devices like Roku, AppleTV, Amazon Fire.  We use innovative backend technologies to deliver video content to millions of devices, which can be all be easily managed through the Odd Networks Dashboard.",
+      "summary": "Odd Networks is a leader in the OTT technology, bringing the latest in Video Streaming technology to mobile and television connected devices like Roku, AppleTV, Amazon Fire. We deliver video content to millions of devices, which is managed through the Odd Networks Dashboard.",
       "highlights": [
         "Designing features for the Odd Networks dashboard and developing them using React and Redux.",
-        "Developing new features on Nodejs and Go backend systems for api-management, content delivery, and event collection for metrics and analytics.",
+        "Developing new features on Nodejs and Go backend systems for API mnagement, content delivery, and event collection for metrics and analytics.",
         "Building and deploying client applications on iOS, Android, tvOS, android-tv, Amazon Fire, and Roku.",
         "Working with clients to build custom applications and training content managers to use content and platform dashboards."
       ]
@@ -52,23 +52,11 @@
       "website": "https://castlelearning.com",
       "startDate": "2013-09-01",
       "endDate": "2017-05-01",
-      "summary": "Castle Learning is a K-12 educational technology product that allows teachers to give students digital assignments and gives students a fully responsive platform to complete their assignments.  We also provide analysis of student response data to help drive instruction, provide high quality content to teachers, and provide students with many different methods to review material and improve their skills.",
+      "summary": "Castle Learning is a K-12 educational technology product that allows teachers to give students digital assignments and gives students a fully responsive platform to complete their assignments.  Castle also provides analysis of student response data to help drive instruction, provide high quality content to teachers, and provide students with many different methods to review material and improve their skills.",
       "highlights": [
         "Re-architected the student interface to allow for full functionality on desktops, tablets, and phones.",
         "Implemented new reports for with client side charts and graphs for data interpretation.",
-        "Helped design new data structures and modeling to increase query speed, lower network bandwidth of query results, and increase server-side efficiency data analysis algorithms."
-      ]
-    },
-    {
-      "company": "Catalyst Custom Technology Consulting",
-      "position": "Freelance Developer",
-      "website": "http://catalystctc.com",
-      "startDate": "2012-01-01",
-      "summary": "Catalyst is an agency that provides full stack technology consulting.  Catalyst can produce small static websites, large and scalable content management systems, and deploy on-site and virtual network infrastructure for small businesses.",
-      "highlights": [
-        "<a href='http://bigbluebigband.com' target='_blank'>Big Blue Big Band</a>: Designed and deployed a sleek and responsive promotional site for a New York swing band",
-        "<a href='http://ucmea.org' target='_blank'>UCMEA</a>: Created a new responsive Wordpress site for a music educators association",
-        "<a href='http://www.ameripriseadvisors.com/team/mazzetti-buscetto-and-associates/myteam' target='_blank'>Ameriprise Financial</a>:  When moving to a new office, managed network migration, testing, and hardware integration."
+        "Introduced new data structures and modeling to increase query speed, decrease data transfer, and increase server-side efficiency of data analysis algorithms."
       ]
     },
     {
@@ -86,7 +74,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Hour of Code",
+      "organization": "Hour of   Code",
       "position": "Technical Specialist",
       "website": "https://hourofcode.com",
       "startDate": "2015-11-01",
@@ -142,21 +130,20 @@
       "name": "Front End",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
         "JavaScript",
+        "CSS",
         "Sass",
-        "Less"
+        "HTML"
       ]
     },
     {
       "name": "Backend",
       "level": "Master",
       "keywords": [
-        "NodeJS",
         "Go",
-        "C#",
         "Ruby",
+        "NodeJS",
+        "C#",
         "Php"
       ]
     },
@@ -165,8 +152,8 @@
       "level": "Master",
       "keywords": [
         "Docker",
-        "Heroku",
         "AWS",
+        "Heroku",
         "Rackspace"
       ]
     },
@@ -174,12 +161,10 @@
       "name": "Frameworks ",
       "level": "Master",
       "keywords": [
-        "MVC (MS)",
-        "Rails",
-        "Knockout",
-        "Ember",
         "React",
+        "Rails",
         "Ember",
+        "MVC (MS)",
         "Knockout",
         "Bootstrap",
         "Foundation"
@@ -198,10 +183,11 @@
       ]
     },
     {
-      "name": "Rubics Cube",
+      "name": "Music",
       "keywords": [
-        "Enthusiastic Amateur Speed Cuber",
-        "Solve < 1.5 min"
+        "Trumpet ",
+        "Big Blue Big Band",
+        "Choir"
       ]
     },
     {
@@ -210,7 +196,7 @@
         "Hiking",
         "Camping",
         "Biking",
-        "Gardening"
+        "Volleyball"
       ]
     },
     {
@@ -222,18 +208,17 @@
       ]
     },
     {
-      "name": "Music",
+      "name": "Rubics Cube",
       "keywords": [
-        "Trumpet ",
-        "Big Blue Big Band",
-        "Church Choir"
+        "Enthusiastic Amateur Speed Cuber",
+        "Solve < 1.5 min"
       ]
     }
   ],
   "references": [
     {
       "name": "Kris Walker, CTO - Oddnetworks.com",
-      "reference" :"Al is a multi faceted developer comfortable in a range of technologies used in <a title='See full reference at Linkedin.' href='https://www.linkedin.com/in/al-jachimiak-29b50b4b#recommendations' target='_blank'>modern web development...</a>"
+      "reference" :"Al is a multi faceted engineer comfortable in a range of technologies used in <a title='See full reference at Linkedin.' href='https://www.linkedin.com/in/al-jachimiak-29b50b4b#recommendations' target='_blank'>modern web development...</a>"
     },
     {
       "name": "Carlos Puchol, CEO - Amahi.org",
